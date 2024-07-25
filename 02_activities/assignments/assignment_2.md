@@ -8,8 +8,9 @@
 - To test your evaluation skills, locate two public data visualizations online, one good and one bad  
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like!
 
-    - ![Good](./Seeking_Safety_European_Asylum_Application_Flows.png)  ![Bad](./Foreigners_in_Milan.jpg)
-    <img src="./Seeking_Safety_European_Asylum_Application_Flows.png" alt="Example Image" width="300"/>
+    <img src="./Seeking_Safety_European_Asylum_Application_Flows.png" alt="Good" height="600"/>   <img src="./Foreigners_in_Milan.jpg" alt="Good" height="600"/>
+      
+    
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
