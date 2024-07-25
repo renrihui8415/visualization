@@ -9,8 +9,7 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like!
 
     - ![Good](./Seeking_Safety_European_Asylum_Application_Flows.png)  ![Bad](./Foreigners_in_Milan.jpg)
-
-    - ![Description of image](https://www.economist.com/graphic-detail/2015/05/12/seeking-safety)
+    <img src="./Seeking_Safety_European_Asylum_Application_Flows.png" alt="Example Image" width="300"/>
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
