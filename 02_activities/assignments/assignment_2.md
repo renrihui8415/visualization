@@ -6,14 +6,14 @@
 
 - Data visualizations are important tools for communication and convincing; we need to be able to evaluate the ways that data are presented in visual form to be critical consumers of information 
 - To test your evaluation skills, locate two public data visualizations online, one good and one bad  
-    - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
+    - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like!
+    - ![Good Visualization](Seeking Safety - European Asylum Application Flows.png)
+    - ![Bad Visualization](Foreigners in Milan.jpg)
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       1. Good Visualization: Seeking Safety - European Asylum Application Flows
         Link: [The Economist](https://www.economist.com/graphic-detail/2015/05/12/seeking-safety)
-
-        ![Seeking Safety Visualization](Seeking Safety - European Asylum Application Flows.png)
 
         1.1 Clear Display: Identifies major asylum applicant countries clearly.
 
@@ -27,8 +27,6 @@
 
       2. Bad Visualization: Foreigners in Milan
         Link: [flickr.com](https://www.flickr.com/photos/densitydesign/8089717433/in/album-72157631774207511/)
-
-        ![Foreigners in Milan](Foreigners in Milan.jpg)
 
         Description: The map shows foreign residents in Milan, with balloon size indicating population and color representing the percentage of foreigners.
 
