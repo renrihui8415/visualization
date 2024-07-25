@@ -8,7 +8,7 @@
 - To test your evaluation skills, locate two public data visualizations online, one good and one bad  
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like!
 
-    - ![image](./Seeking_Safety_-_European_Asylum_Application_Flows.png)
+    - ![image](./Seeking_Safety_European_Asylum_Application_Flows.png)
     - ![image](./Foreigners_in_Milan.jpg)
     
 - For each visualization (good and bad):  
