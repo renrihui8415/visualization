@@ -44,7 +44,7 @@
     > What ‘underwater labour’ contributed to your final data visualization product?
     - To ensure reproducibility and reduce operational complexity, all processes, _such as the initial Python package installation, data file downloading and handling, formatting, data ETL and cleansing, data analysis, calculations, and final storage for generating the animated bar plot_, can be completed by running a single Jupyter notebook or Python script. All these processes are **100% automated**using Python.
 
-    - 2. PowerBI --> Dynamic Bar Chart for Toronto Budgets by Project Category **(Year 2024 to Year 2033)**
+    - 2. PowerBI --> Interactive HeatMap with Waterfall for Toronto Budgets **(Year 2024 to Year 2033)**
 
     > What software did you use to create your data visualization?
     - I used Microsoft **PowerBI** Desktop for the data visualization, which provided robust tools for creating interactive and insightful plots.
@@ -61,12 +61,15 @@
     - Aesthetic: Focused on a clean, uncluttered layout to ensure the visualizations are both functional and visually appealing. 
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    - Reproducibility was ensured through a comprehensive Power BI (PBI) file with the plot and its configurations, Python scripts for data processing, and detailed procedural documentation in a single file. **[Project_Documentation_(PowerBI)](assignment_4_powerbi.ipynb)**. This approach allows others to accurately recreate the visualizations.
+    - Reproducibility was ensured through a comprehensive Power BI (PBI) file with the plot and its configurations, Python scripts for data processing, and detailed procedural documentation in a single file. **[Project_Documentation_(PowerBI)](viz_by_powerbi.ipynb)**. This approach allows others to accurately recreate the visualizations.
     
     - If the tool used to make the data visualization is not reproducible, it could lead to inconsistencies in the results, making it difficult to verify or update the visualizations. This lack of reproducibility would hinder the ability to accurately replicate findings, reducing the reliability and credibility of the visualizations.
 
     > How did you ensure that your data visualization is accessible?  
-    - Accessibility was addressed by using color palettes friendly to colorblind users, and providing alternative text for key visual elements. Clear labels, legends, and descriptions were included to make the visualizations understandable to a broad audience.
+    - Color Palette: Used colorblind-friendly palettes and limited reliance on color.
+    - Graph Design: Ensured high contrast and varied sizes/shapes.
+    - Labels and Legends: Provided clear, concise labels and detailed legends.
+    - Interactivity: Included slicers, filters, and tooltips for better user engagement.
 
     > Who are the individuals and communities who might be impacted by your visualization?  
     - The visualizations impact city planners, budget analysts, municipal stakeholders, and the general public. These stakeholders can gain insights into projected budget trends for the next decade, which helps in understanding future financial planning and its implications for different wards.
